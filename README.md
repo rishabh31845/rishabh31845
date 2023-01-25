@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 
 - 💬 About me:
 
-      - Skilled and results-oriented Software Engineer with more than 4.5+ years of experience, working in a variety of 
-        environments with a breadth of programs and technologies. 
-      - I am good at creating, optimizing & scaling software applications. In most of the projects, I've worked as a 
-        full-stack engineer, and it results in a pretty good understanding of the Software Development Life Cycle. 
+      - Proficiency in creating scalable microservices with database analysis, strong design and integration problem-solving skills with 5+ years of experience. 
+      - Consistently recognized as a hands-on and competent developer, skilled at providing solutions in a fast-paced, deadline-driven environment to steer timely
+        project completion 
       - I enjoy meeting new people & sharing ideas. I like to keep myself upgraded with the latest technologies and market trends.
       - Outside of work, I enjoy my hobbies including traveling, exploring new food being a foodie, and cooking. 
 
